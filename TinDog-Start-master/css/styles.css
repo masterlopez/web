@@ -139,3 +139,26 @@ p {
     transform: rotate(0);
   }
 }
+
+/* CTA Section */
+
+#cta {
+  background-color: #FF4C68;
+  text-align: center;
+  padding: 7% 15%;
+  color: #FFF;
+  font-size: 3.5rem;
+  font-weight: 900;
+}
+
+/* Footer Section */
+
+#footer {
+  background-color: #FFF;
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.social-icons {
+  margin: 20px 10px;
+}
